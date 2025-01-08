@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/14b23cf1-92e7-4ff4-90b1-8e6aec75fd6d)
 
-Welcome to my portfolio of projects developed on the OutSystems platform.
+Welcome to my portfolio of projects developed on the OutSystems platform. 
 
 Visit my full portfolio [here](https://personal-wmszd6ce.outsystemscloud.com/Portfolio/Portfolio) 
 
